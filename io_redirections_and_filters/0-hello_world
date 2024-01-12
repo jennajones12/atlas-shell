@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e  Hello, World | cat -e | fmt | pr | /n
+echo -e  Hello, World | cat -e | fmt | pr | \n
