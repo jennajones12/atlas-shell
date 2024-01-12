@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e 'Hello, World' \n$(cat -e)
+file /0-hello_world/Hello, World \cat 0-hello_world
