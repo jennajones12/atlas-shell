@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e 'Hello, World' > 0-hello_world | cat -e o-hello_world \n>
+echo Hello, World > 0-hello_World \ncat 0-hello_world
