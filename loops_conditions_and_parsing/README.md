@@ -1,0 +1,1 @@
+shells, loops, conditions, parsing
